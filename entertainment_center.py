@@ -25,6 +25,7 @@ forgetting_sarah_marshall = media.Movie(
 
 """Creates array of movies"""
 movies = [jurassic_park, napoleon_dynamite,forgetting_sarah_marshall]
+"""Invokes Movie() description"""
 #print (media.Movie.__doc__)
 """imvokes fresh_tomatoes and run open_movies_page() function"""
 fresh_tomatoes.open_movies_page(movies) 
